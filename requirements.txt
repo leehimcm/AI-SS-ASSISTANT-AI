@@ -1,0 +1,8 @@
+numpy==1.26.4
+pulp==3.3.0
+gymnasium==0.28.1
+tianshou==1.2.0
+# torch==2.8.0+cu126 # CUDA 12.6
+fastapi
+uvicorn[standard]
+pydantic
